@@ -1,2 +1,2 @@
-# Show_me_what_you_got
+# Show me what you got
 Data Science Numpy Project
