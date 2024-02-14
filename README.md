@@ -1,6 +1,8 @@
 # Show me what you got
 ## Data Science Numpy Project
 
+[Link to github page](https://github.com/SarahDC7/Show_me_what_you_got)
+
 This repository is the result of an assignment to practice the **Numpy package** for the course "Data Scientist" taught at Syntra AB.
 
 The assignment entails doing a number of manipulations with a chosen image. The manipulations that are available in this repository are:
